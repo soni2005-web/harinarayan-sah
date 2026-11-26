@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soni2005-web.github.io/harinarayan-sah/sitemap.xml
